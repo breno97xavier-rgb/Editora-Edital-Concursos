@@ -65,7 +65,8 @@ const CONCURSOS = [
     description: "Materiais para cargos de nível médio e técnico. Entre na maior empresa do Brasil com preparação de elite.",
     image: "https://i.ibb.co/M5cTtxWG/C-pia-de-Capa-de-Livro-Infantil-Ilustrado-Vibrante-PCD-Inclusivo.png",
     bgImage: "https://i.ibb.co/39WTKyp4/br4-1-857x482.jpg",
-    status: "soon",
+    link: "https://editoraeditalconcursos-petrobras.vercel.app",
+    status: "active",
     icon: <LayoutDashboard className="w-6 h-6" />
   },
   {
