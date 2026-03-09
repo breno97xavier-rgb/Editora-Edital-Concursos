@@ -32,6 +32,19 @@ const CONCURSOS = [
     icon: <ShieldCheck className="w-6 h-6" />
   },
   {
+    id: "petrobras",
+    name: "Petrobras",
+    cargo: "TÉCNICO DE OPERAÇÃO",
+    fullName: "Petrobras",
+    title: "Petrobras - Petrobras",
+    description: "Materiais para cargos de nível médio e técnico. Entre na maior empresa do Brasil com preparação de elite.",
+    image: "https://i.ibb.co/M5cTtxWG/C-pia-de-Capa-de-Livro-Infantil-Ilustrado-Vibrante-PCD-Inclusivo.png",
+    bgImage: "https://i.ibb.co/39WTKyp4/br4-1-857x482.jpg",
+    link: "https://editoraeditalconcursos-petrobras.vercel.app",
+    status: "active",
+    icon: <LayoutDashboard className="w-6 h-6" />
+  },
+  {
     id: "inss",
     name: "INSS",
     cargo: "TÉCNICO DO SEGURO SOCIAL",
@@ -45,6 +58,19 @@ const CONCURSOS = [
     icon: <LayoutDashboard className="w-6 h-6" />
   },
   {
+    id: "gcm",
+    name: "GCM",
+    cargo: "GUARDA CIVIL MUNICIPAL",
+    fullName: "Guarda Civil Municipal",
+    title: "Guarda Civil Municipal - GCM",
+    description: "Preparação completa para Guardas Municipais. O material essencial para quem busca a farda azul marinho.",
+    image: "https://i.ibb.co/vCpnKgQ4/C-pia-de-Capa-de-Livro-Infantil-Ilustrado-Vibrante-PCD-Inclusivo.png",
+    bgImage: "https://i.ibb.co/twkZpXNs/concurso-gcm-sp.jpg",
+    link: "https://editoraeditalconcursos-gcm.vercel.app",
+    status: "active",
+    icon: <ShieldCheck className="w-6 h-6" />
+  },
+  {
     id: "bb",
     name: "Banco do Brasil (BB)",
     cargo: "ESCRITURÁRIO",
@@ -55,19 +81,6 @@ const CONCURSOS = [
     bgImage: "https://i.ibb.co/Tx71qnj6/banco-do-brasil-mcamgo-abr-280620211818-9.jpg",
     status: "soon",
     icon: <BookOpen className="w-6 h-6" />
-  },
-  {
-    id: "petrobras",
-    name: "Petrobras",
-    cargo: "TÉCNICO DE OPERAÇÃO",
-    fullName: "Petrobras",
-    title: "Petrobras - Petrobras",
-    description: "Materiais para cargos de nível médio e técnico. Entre na maior empresa do Brasil com preparação de elite.",
-    image: "https://i.ibb.co/M5cTtxWG/C-pia-de-Capa-de-Livro-Infantil-Ilustrado-Vibrante-PCD-Inclusivo.png",
-    bgImage: "https://i.ibb.co/39WTKyp4/br4-1-857x482.jpg",
-    link: "https://editoraeditalconcursos-petrobras.vercel.app",
-    status: "active",
-    icon: <LayoutDashboard className="w-6 h-6" />
   },
   {
     id: "bacen",
