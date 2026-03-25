@@ -27,7 +27,7 @@ const CONCURSOS = [
     description: "Conteúdo organizado, questões e estudo guiado para PRF. O material que separa os aprovados dos curiosos.",
     image: "https://i.ibb.co/Fb2jywxw/C-pia-de-Capa-de-Livro-Infantil-Ilustrado-Vibrante-PCD-Inclusivo-1.png",
     bgImage: "https://i.ibb.co/rfNMTKNr/prf-jpg.webp",
-    link: "https://editoraeditalconcursos-apostilaprf.vercel.app",
+    link: "https://editoraeditalconcursos-apostilaprf.vercel.app/?utm_source=bio",
     status: "active",
     icon: <ShieldCheck className="w-6 h-6" />
   },
@@ -40,7 +40,7 @@ const CONCURSOS = [
     description: "Materiais para cargos de nível médio e técnico. Entre na maior empresa do Brasil com preparação de elite.",
     image: "https://i.ibb.co/M5cTtxWG/C-pia-de-Capa-de-Livro-Infantil-Ilustrado-Vibrante-PCD-Inclusivo.png",
     bgImage: "https://i.ibb.co/39WTKyp4/br4-1-857x482.jpg",
-    link: "https://editoraeditalconcursos-petrobras.vercel.app",
+    link: "https://editoraeditalconcursos-petrobras.vercel.app/?utm_source=bio",
     status: "active",
     icon: <LayoutDashboard className="w-6 h-6" />
   },
@@ -53,7 +53,7 @@ const CONCURSOS = [
     description: "Material completo para técnico do seguro social e revisões. Não espere o edital sair para começar a vencer.",
     image: "https://i.ibb.co/3y2XsRqf/Capa-de-Livro-Infantil-Ilustrado-Vibrante-PCD-Inclusivo-1.png",
     bgImage: "https://i.ibb.co/cXycwrsG/foto-inss.jpg",
-    link: "https://editoraeditalconcursos-inss.vercel.app",
+    link: "https://editoraeditalconcursos-inss.vercel.app/?utm_source=bio",
     status: "active",
     icon: <LayoutDashboard className="w-6 h-6" />
   },
